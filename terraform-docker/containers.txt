@@ -1,0 +1,4 @@
+influxdb-prod-twow: 172.17.0.3: 8086
+influxdb-prod-yxt6: 172.17.0.2: 8087
+grafana-prod-5xpn: 172.17.0.5: 3000
+nodered-prod-a6l5: 172.17.0.4: 1880
